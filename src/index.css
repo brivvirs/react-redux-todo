@@ -1,0 +1,12 @@
+.todo-done{
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+
+.todo-active{
+    font-weight: bold;
+}
+
+.todo-item{
+    cursor: pointer;
+}
