@@ -1,2 +1,2 @@
-# react-redux-todo
-Todo list on react with redux store
+# This is a pure TODO application example of React using Redux store
+
